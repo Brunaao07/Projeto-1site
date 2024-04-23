@@ -8,3 +8,15 @@ body{
 img#vi2{
     border-radius: 3%;
 }
+
+p#vi7{
+    text-align: right;
+}
+
+a#vi {
+    
+    background-color: white;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
