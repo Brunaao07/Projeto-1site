@@ -1,6 +1,10 @@
 @charset "UTF-8";
 
 body{
-    background-image: linear-gradient(to top, rgb(128,0,128), rgb(0,255,255));
+    background-image: linear-gradient(to top, rgb(0,255,255), rgb(208, 103, 208));
     font-family: 'Courier New', Courier, monospace;
+}
+
+img#vi2{
+    border-radius: 3%;
 }

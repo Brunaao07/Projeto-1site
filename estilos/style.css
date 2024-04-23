@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-    background-image: linear-gradient(to top, rgb(128,0,128), rgb(0,255,255));
+    background-image: linear-gradient(to top, rgb(208,103,208), rgb(0,255,255));
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -13,4 +13,5 @@ img#vi{
 a{
     color: black;
     background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
