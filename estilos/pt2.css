@@ -4,13 +4,3 @@ body{
     background-image: linear-gradient(to top, rgb(128,0,128), rgb(0,255,255));
     font-family: 'Courier New', Courier, monospace;
 }
-
-img#vi{
-    border-radius: 3%;
-   
-}
-
-a{
-    color: black;
-    background-color: white;
-}
